@@ -10,10 +10,10 @@
 
 - Design ¾ posters for-
 
-1.About upcoming Meetup [with Venue, speaker names, Sponsors, Date].
-2.Interview Blog [with Guest Image, Name, Details].
-3.Meetup Monthly Blog [with meetup details and any image from meetup].
-4.Volunteering Opportunities [with skills we are looking for], one-time task.
+-- 1.About upcoming Meetup [with Venue, speaker names, Sponsors, Date].
+-- 2.Interview Blog [with Guest Image, Name, Details].
+-- 3.Meetup Monthly Blog [with meetup details and any image from meetup].
+-- 4.Volunteering Opportunities [with skills we are looking for], one-time task.
 
 - Help design the style guides, wireframes with proper vectors, logos and other necessary requirements.
 
