@@ -15,7 +15,7 @@
 
 **Monthly Meeting (On Zoom/Skype):**
 
-First Saturday of each month, at night.
+    First Saturday of each month, at night.
 
 **Guidelines for team:**
 - Collaborate with the team members to keep a check on who we have already contacted and who is required to be contacted.
